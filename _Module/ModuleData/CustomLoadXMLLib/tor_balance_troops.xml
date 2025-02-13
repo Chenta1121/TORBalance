@@ -1,0 +1,3499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Troops>
+
+	<Troop Id="tor_bandit_norscan_marauder">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_empire_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_bandit_norscan_whaler">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_empire_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_bandit_norscan_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_beast_ungor_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2050" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_shielded_ungor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_empire_caravan_vetguard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_ungor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_we_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_marksman_handgunner">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9700" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_veteran_artillery_crew">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_crossbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_cult_acolyte">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_cult_darksoul">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_eternal_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_we_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_we_master_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_waywatcher_sentinel">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12200" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="28" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_glade_rider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5450" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="5" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_cult_magister">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_deserter_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2950" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_deserter_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4950" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="5" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_deserter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_skeleton">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_skeleton_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_recruit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1400" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_glade_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_vc_hell_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_vc_skeleton_swordsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_skeleton_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_skeleton_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_grave_guard_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_vc_grave_guardian">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_we_waywatcher">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8100" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="17" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_cult_coi_beacon">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_cult_coi_order_of_star_acolyte">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_young_noble_squire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_pikeman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_huntsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_cult_coi_unlit_candle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_innercircle_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12400" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="7" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_longbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_recruit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_dryad">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_we_ancient_treeman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="103068" />
+		<GoldCostUpgrade value="5000" />
+		<Wage value="0" />
+		<HealthBonus value="610" />
+	</Troop>
+
+	<Troop Id="tor_we_treeman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="220" />
+	</Troop>
+
+	<Troop Id="villager_vlandia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_vlandia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_guard_vlandia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_master_vlandia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_vlandia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="forest_bandits_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_voland_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sword_sisters_sister_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_kragsburg_retainer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_kragsburg_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_kragsburg_house_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_kragsburg_personal_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_klumpfs_buccaneer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13800" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_con_carstein_noble">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="2" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_vc_von_carstein_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18300" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="13" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_empire_novice_engineer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_leopard_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_ungor_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_ironsider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_bandit_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="looter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="forest_bandits_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_anguille_sailor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_carcasonne_mountain_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_cult_bw_expelled_magister">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_bandit_norscan_champion">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="desert_bandits_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="steppe_bandits_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="steppe_bandits_boss">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_braganza_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_braganza_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_teutogen_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="19001" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="5" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="mountain_bandits_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_hell_wraith">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="16400" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_vc_crypt_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_crypt_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_grave_guard_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_ward_of_taal">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="25" />
+	</Troop>
+
+	<Troop Id="tor_ror_hunter_of_taal">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7600" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="7" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_we_wildwood_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10800" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="13" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_we_wildwood_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="10" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_vc_crypt_wraith">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10500" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_cult_bw_vengeful_cultist">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_ostland_shield">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="5" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_ostland_blackguard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14001" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="5" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="sword_sisters_sister_t4">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sword_sisters_sister_t3">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_enslaved_villager">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_tzeench_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34201" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="30" />
+		<HealthBonus value="70" />
+	</Troop>
+
+	<Troop Id="tor_vc_hex_wraith">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_warrior_ulric">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10200" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="3" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="mountain_bandits_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="mountain_bandits_boss">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_master_engineer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_associate_engineer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_apprentice_engineer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3150" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_great_stag_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18900" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="12" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_br_yeoman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_yeoman_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_knight_errant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7550" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="14" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_br_peasant_archer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="11700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_br_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_caravan_elite_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_grail_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="49168" />
+		<GoldCostUpgrade value="2000" />
+		<Wage value="-80" />
+		<HealthBonus value="110" />
+	</Troop>
+
+	<Troop Id="tor_br_peasant_levy">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="900" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_br_quest_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12201" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="-60" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_br_villager">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_br_foot_squire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_br_manatarms">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_manatarms_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_manatarms_halberd">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_realm_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9000" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="6" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_br_villein">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_noble">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_br_longbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_mounted_yeoman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7100" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="7" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_br_mounted_bowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_mounted_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_bastonne_squire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_ror_bastonne_beastslayer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="villager_battania">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_master_battania">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_guard_battania">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_battania">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_battania">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_braganza_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_villager">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_levy">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_archer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_hunter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_veteran_state_troop">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_empire_state_troop">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_outlaw">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_outlaw_leader">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_outrider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8800" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="3" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_valiant_outrider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10336" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_valiant_outrider_grenade">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10336" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_demigryph_innercircle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="22836" />
+		<GoldCostUpgrade value="650" />
+		<Wage value="10" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_reiksguard_preceptor_innercircle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="16436" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_empire_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12700" />
+		<GoldCostUpgrade value="120" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="villager_empire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_swordsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_demigryph_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18800" />
+		<GoldCostUpgrade value="550" />
+		<Wage value="12" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="caravan_master_empire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="caravan_guard_empire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_archer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_greatsword">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_pistolier">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_skirmisher">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_villager">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_empire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_handgunner">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="7" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_marksman_crossbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_reiksguard_preceptor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10800" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="8" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_reiksguard_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="8" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_state_troop">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_noble_cavalry">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="6" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_veteran_swordsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_empire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_empire_armored_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_halberdier">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_flagellant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="villager_khuzait">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_master_khuzait">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_guard_khuzait">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_khuzait">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_khuzait">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="eastern_mounted_mercenary_t4">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_drakenhof_kastelan">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="28001" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="23" />
+		<HealthBonus value="80" />
+	</Troop>
+
+	<Troop Id="tor_vc_drakenhof_templar">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="24300" />
+		<GoldCostUpgrade value="400" />
+		<Wage value="30" />
+		<HealthBonus value="60" />
+	</Troop>
+
+	<Troop Id="tor_chaos_khorne_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34201" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="30" />
+		<HealthBonus value="80" />
+	</Troop>
+
+	<Troop Id="tor_br_battle_pilgrim">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_wh_retinue_headhunter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14336" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="5" />
+		<HealthBonus value="-30" />
+	</Troop>
+
+	<Troop Id="tor_wh_retinue">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-30" />
+	</Troop>
+
+	<Troop Id="tor_wh_retinue_hunter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="2" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_maisontaal_cultist">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_maisontaal_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9201" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="-5" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_maisontaal_acetic">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="mountain_bandits_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="steppe_bandits_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="steppe_bandits_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_stir_river_patrolman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_stir_river_patrol_guardsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_stir_river_patrol_nimrod">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_ror_stir_river_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="villager_sturgia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_master_sturgia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_guard_sturgia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_sturgia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_sturgia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_sternieste_grave_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_sternieste_skeleton">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_sternieste_black_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_vc_spirit_host">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_br_bandit_leader">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="gangster_1">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="gangster_3">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_de_conscript">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_de_dreadspear">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1750" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_de_darkshard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2050" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_de_darkrider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4550" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="10" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_de_bleaksword">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1750" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_he_white_lion_chrace">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="40" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_konigstein_swordsman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_konigstein_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_konigstein_skeleton">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_grundel_defender_stalwart">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_grundel_defender_troop">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_grundel_defender_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_grundel_defender_defender">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_deathjack_toxophilite">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_ror_deathjack_marksman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_deathjack_longbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_harbinger_champion">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_vc_harbinger_champion_plate_two_handed">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="32400" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_vc_harbinger_champion_plate">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="32400" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_vc_harbinger_champion_two_handed">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34068" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="80" />
+	</Troop>
+
+	<Troop Id="desert_bandits_boss">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_loec_trickster">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="30" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sea_raiders_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sea_raiders_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sea_raiders_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sea_raiders_boss">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_acolyte_of_chaos">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_undivided_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="30201" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="30" />
+		<HealthBonus value="70" />
+	</Troop>
+
+	<Troop Id="tor_chaos_pugulist">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="60" />
+	</Troop>
+
+	<Troop Id="tor_chaos_gladiator">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="60" />
+	</Troop>
+
+	<Troop Id="tor_chaos_cultist_of_chaos">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_undivided_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="40668" />
+		<GoldCostUpgrade value="800" />
+		<Wage value="60" />
+		<HealthBonus value="90" />
+	</Troop>
+
+	<Troop Id="tor_chaos_darksoul_of_chaos">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_peasant_squire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="5" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_peasant_squight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_ror_peasant_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9001" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="desert_bandits_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_roaming_undead_skeleton">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_roaming_undead_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_cult_fsf_ulcerator">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="60" />
+	</Troop>
+
+	<Troop Id="tor_cult_fsf_ulcus_frater">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_cult_fsf_puer_ulceris">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_demigryph_innercircle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="28336" />
+		<GoldCostUpgrade value="600" />
+		<Wage value="10" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_innercircle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="16336" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_demigryph_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18336" />
+		<GoldCostUpgrade value="550" />
+		<Wage value="12" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_preceptor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10336" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="7" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_initiate">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_blazing_sun_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="8" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_beast_minotaur">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="260" />
+		<HealthBonus value="160" />
+	</Troop>
+
+	<Troop Id="tor_chaos_pit_fighter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_wild_rider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="8" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_lionhearted_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_innercircle_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18168" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_demi_preceptor_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="26168" />
+		<GoldCostUpgrade value="600" />
+		<Wage value="10" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_demi_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18201" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="10" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_preceptor_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13201" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_initiate">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_griffon_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="-2" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_wolfkin">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_empire_wolfbrother">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_dog_voland_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_voland_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_leopard_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7200" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_dog_leopard_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_marienburg_sailor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_marienburg_private_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4350" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="5" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_ror_sternieste_reaver">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="20300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_ror_gundermans_surefire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="16200" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="8" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_empire_whitewolf_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="29001" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="15" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_vc_cairn_wraith">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_cult_bw_sorcerer_broken_wheel">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_kharmourts_blades">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14300" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="3" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_corduin_knightly_mariner">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_corduin_mariner">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3550" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_yeoman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_peasant_archer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_illfated_squire">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_m_knight_of_misfortune">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_m_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_caravan_elite_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_peasant_levy">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="900" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_doomed_questing_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12201" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="-60" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_m_outcast_errant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7550" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="14" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_m_villager">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_manatarms">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_manatarms_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_manatarms_halberd">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_knight_of_the_black_grail">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="45168" />
+		<GoldCostUpgrade value="2000" />
+		<Wage value="0" />
+		<HealthBonus value="100" />
+	</Troop>
+
+	<Troop Id="tor_m_villein">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_longbowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_m_mounted_yeoman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7100" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="7" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_muktar_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_miragliano_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_miragliano_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_miragliano_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="western_crossbow_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="eastern_mercenary_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="western_mercenary_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_nurgle_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34201" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="30" />
+		<HealthBonus value="100" />
+	</Troop>
+
+	<Troop Id="tor_br_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="forest_bandits_chief">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="forest_bandits_boss">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_experienced_artillery_crew">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_sternieste_sternsmen">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_merc_free_company_bowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_merc_free_company_volunteer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_merc_free_company_pistolier">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_merc_free_company_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_merc_free_company_militiaman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_chaos_slaanesh_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34201" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="30" />
+		<HealthBonus value="70" />
+	</Troop>
+
+	<Troop Id="tor_eo_thug">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="18" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_eo_expert_thug">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10200" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="27" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_eo_master_thug">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="20550" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="42" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_eo_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_eo_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_cityborn_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_eo_cityborn_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="-16" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_eo_queens_guard_sword">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="20036" />
+		<GoldCostUpgrade value="350" />
+		<Wage value="-40" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_queens_guard_halberd">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="28036" />
+		<GoldCostUpgrade value="550" />
+		<Wage value="-40" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_eo_kithband_sentinel">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="7" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_armoured_kithband_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="2" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_eo_forestborn">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_eo_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_eo_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_eo_envoy_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="18036" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="-40" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_eo_caravan_elite_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_cityborn_council_sentinel">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13300" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="-21" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_cityborn_council_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="13300" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="-21" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_eo_kithband_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_eo_veteran_kithband_warrior_sword">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_eo_veteran_kithband_warrior_spear">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12000" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_eo_kithband_aspirant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_eo_mounted_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12236" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="5" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_eo_mounted_kithband_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="11100" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="7" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_vc_grave_guard_seneschal">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_vc_lahmian_countess">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="22200" />
+		<GoldCostUpgrade value="600" />
+		<Wage value="0" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_vc_lahmian_sister">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="12" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_vc_lahmian_noblewoman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="15200" />
+		<GoldCostUpgrade value="400" />
+		<Wage value="18" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_dog_ricco_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_ricco_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_warden_montfort">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="11200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_bd_blooddragon_kastelan">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="38201" />
+		<GoldCostUpgrade value="1300" />
+		<Wage value="50" />
+		<HealthBonus value="120" />
+	</Troop>
+
+	<Troop Id="tor_bd_blooddragon_templar">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="34300" />
+		<GoldCostUpgrade value="650" />
+		<Wage value="23" />
+		<HealthBonus value="60" />
+	</Troop>
+
+	<Troop Id="tor_bd_blooddragon_initiate">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14200" />
+		<GoldCostUpgrade value="400" />
+		<Wage value="7" />
+		<HealthBonus value="20" />
+	</Troop>
+
+	<Troop Id="tor_bd_blooddragon_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="24300" />
+		<GoldCostUpgrade value="500" />
+		<Wage value="18" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_dog_cursed_company_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_caravan_captain">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_caravan_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_caravan_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_caravan_horseman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_cursed_company_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_trainee_artillery_crew">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3150" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_gor">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_gor_manripper">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4400" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_beast_gor_foerender">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="3300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_cursed_company_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_ror_nordland_mariner">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_ror_nordland_seahawk">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="10300" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="3" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_raider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="2" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_whaler">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1700" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="2" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_marauder">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_reaver">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_champion">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6800" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="8" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_tribesman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="25" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_horsemaster">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4450" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="13" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_chaos_norscan_horseman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="1700" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="12" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="tor_ror_bergerac_bowman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_bergerac_herrimault">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_bergerac_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="desert_bandits_bandit">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="sword_sisters_sister_infantry_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="eastern_mounted_mercenary_t5">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_hergig_jaegerkorps">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="15200" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="7" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="deserter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_lyonesse_knight_errant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9550" />
+		<GoldCostUpgrade value="150" />
+		<Wage value="19" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_ricco_03">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_chaos_aspiring_warrior">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="3" />
+		<HealthBonus value="50" />
+	</Troop>
+
+	<Troop Id="tor_empire_iron_company_troop">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="6100" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_empire_iron_company_guard">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_longshank_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_longshank_ranger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_longshank_initiate">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_longshank_strider">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_horned_hunter">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="12700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="18" />
+		<HealthBonus value="30" />
+	</Troop>
+
+	<Troop Id="villager_aserai">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_master_aserai">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="caravan_guard_aserai">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="armed_trader_aserai">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="veteran_caravan_guard_aserai">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_son_of_altdorf">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_altdorf_companyman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_altdorf_company_sergeant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="14300" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="3" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_muktar_02">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_dog_muktar_01">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_servant">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_we_bladesinger">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="15300" />
+		<GoldCostUpgrade value="300" />
+		<Wage value="23" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_we_shadowdancer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7200" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="18" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_we_wardancer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4700" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="12" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_glade_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9450" />
+		<GoldCostUpgrade value="200" />
+		<Wage value="7" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_we_eternal_warden">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="7450" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="5" />
+		<HealthBonus value="40" />
+	</Troop>
+
+	<Troop Id="tor_we_deepwood_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="5450" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_we_caravan_elite_ranged">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="11200" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_he_seaelf_archer">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2050" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_he_seaelf_militia">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="10" />
+	</Troop>
+
+	<Troop Id="tor_he_seaelf_sentinel">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4000" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="0" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_he_seaelf_hawkeye">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="4000" />
+		<GoldCostUpgrade value="50" />
+		<Wage value="0" />
+		<HealthBonus value="-20" />
+	</Troop>
+
+	<Troop Id="tor_he_seaelf_spearman">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="2050" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="eastern_mercenary">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="western_crossbow_t4">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="western_mercenary">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="eastern_mercenary_t4">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="western_mercenary_t4">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_hochland_drakwald_patrol">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_hochland_scout">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_ror_hochland_longrifle">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="8200" />
+		<GoldCostUpgrade value="100" />
+		<Wage value="3" />
+		<HealthBonus value="-10" />
+	</Troop>
+
+	<Troop Id="tor_vc_summoned_skeleton">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="gangster_2">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="0" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="0" />
+	</Troop>
+
+	<Troop Id="tor_vc_black_knight">
+		<Description str="{=BalanceDescription}自定义" />
+		<XpCostUpgrade value="9000" />
+		<GoldCostUpgrade value="0" />
+		<Wage value="0" />
+		<HealthBonus value="30" />
+	</Troop>
+</Troops>
